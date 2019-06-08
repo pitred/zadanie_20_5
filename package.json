@@ -5,7 +5,8 @@
    "main": "index.js",
    "scripts": {
       "gitignore": "curl https://raw.githubusercontent.com/github/gitignore/master/Node.gitignore -o .gitignore",
-      "start": "webpack"
+      "start": "webpack --mode development",
+      "build": "webpack --env production"
    },
    "keywords": [],
    "author": "Piotr Nowinski",
