@@ -1,5 +1,5 @@
-# zadanie_20_4 Webpack & React
+# zadanie_20_5 Webpack & React - zmiana konfiguracji
 
 Publish:
 
-https://pitred.github.io/zadanie_20_4/. 
+https://pitred.github.io/zadanie_20_5/. 
